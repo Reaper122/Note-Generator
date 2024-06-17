@@ -1,0 +1,9 @@
+Topic 0:
+cases, armed, aid, foster, provide, nations, 1945, founded, organization, united
+
+Topic 1:
+social, goals, cases, foster, famine, environment, economic, disaster, main, human
+
+Topic 2:
+cases, armed, aid, foster, protect, united, nations, organization, founded, 1945
+
